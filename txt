@@ -1,0 +1,5 @@
+2.Fraud detection model:
+I would use a supervised machine learning algorithm such as Random Forest Classifier to build the fraud detection model. This algorithm can handle both numerical and categorical data and is able to handle large datasets.
+
+3.Variable selection:
+I would use feature selection techniques such as SelectKBest or mutual information to select the most relevant variables to include in the model.
